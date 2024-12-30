@@ -10,7 +10,8 @@ If a player's king is captured or blown up, the game ends, and that player loses
 
 Locations on the board will be specified using "algebraic notation", with columns labeled a-h and rows labeled 1-8, as shown in this diagram:
 
-![board](starting_position.png "starting position")
+![image](https://github.com/user-attachments/assets/8b9dfc69-a782-4a46-8cf0-249b3571f91c)
+
 
 Special rules for this variant of chess:
 
